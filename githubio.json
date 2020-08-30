@@ -3,6 +3,6 @@
 	"project_name" : "Time Pilot",
 	"project_description" : "A modern implementation of the 80s classic.",
 	"image_uri" : "media/githubio.gif",
-	"tags" : "C++,Game Engine Architecture"
+	"tags" : "C++,Game Engine Architecture",
 	"href_name" : "Project"
 }
